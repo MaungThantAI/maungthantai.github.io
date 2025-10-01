@@ -8,7 +8,7 @@ author: "Maung Thant"
 subtitle: ""
 venue: "Advanced Master Thesis"
 thesis: https://drive.google.com/file/d/1wE3Gb3s0l6l3HcDS5YvG176z9kab2k2x/view?usp=drive_link
-supervisor: "Prof. Bart De Moor"
+supervisor: " Prof. Bart De Moor"
 supervisor_link: "https://www.bartdemoor.be/index.php/about-2"
 ---
 
