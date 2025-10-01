@@ -9,7 +9,7 @@ subtitle: ""
 authors: ""
 venue: "preprint"
 arxiv: https://drive.google.com/file/d/1WEwH4jFPeye1p_hEkwuN9Eu9sf9clN5d/view?usp=drive_link
-supervisor: "Prof. Toon van Waterschoot"
+supervisor: "Advisor: Prof. Toon van Waterschoot"
 supervisor_link: "https://tvanwate.github.io/"
 ---
 
