@@ -109,13 +109,16 @@
               {% if post.supervisor %}
                 
                 {% if post.supervisor_link %}
-                  <a href="{{ post.supervisor_link }}" target="_blank">{{ post.supervisor }}</a>
+                  <a href="{{ post.supervisor_link }}" target="_blank"><br>{{ post.supervisor }}</a>
                 {% else %}
-                  {{ post.supervisor }}
+                  {{ <br>post.supervisor }}
                 {% endif %}
               {% endif %}
               
-              {{post.authors}}
+              {% if post.authors %}
+              <br>{{post.authors}}
+              {% endif %}
+              
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
