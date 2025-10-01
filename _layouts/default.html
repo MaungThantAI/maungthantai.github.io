@@ -153,6 +153,7 @@
           {% if cat == 'talk' %}
           <tr>
             <td style="padding:0.5%;width:15%;vertical-align:middle;text-align:left">
+              <h3>{{post.title}}</h3>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               {% if post.video %}
               <a href="{{post.video}}">video</a> 
