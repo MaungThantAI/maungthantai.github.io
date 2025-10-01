@@ -161,6 +161,9 @@
               {% if post.website %}
               <a href="{{post.website}}">website</a>
               {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">slides</a> /
+              {% endif %}
               {{ post.excerpt }}
             </td>
           </tr>
