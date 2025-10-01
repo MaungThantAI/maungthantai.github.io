@@ -94,6 +94,14 @@
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
+              {% if post.supervisor %}
+                <br><strong>Supervisor:</strong>
+                {% if post.supervisor_link %}
+                  <a href="{{ post.supervisor_link }}" target="_blank">{{ post.supervisor }}</a>
+                {% else %}
+                  {{ post.supervisor }}
+                {% endif %}
+              {% endif %}
               <br>
               {{post.authors}}
 
