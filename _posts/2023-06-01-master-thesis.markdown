@@ -8,7 +8,7 @@ author: "Maung Thant"
 subtitle: ""
 venue: "Master Thesis"
 thesis: https://drive.google.com/file/d/1CSiHHgeFWjYoDDV3nZ_lusRjk5s5laA7/view?usp=drive_link
-supervisor: "Advisor: Prof. Jef Peeters"
+supervisor: "Prof. Jef Peeters"
 supervisor_link: "https://scholar.google.com/citations?user=A9HIWYgAAAAJ&hl=en&oi=ao"
 ---
 
