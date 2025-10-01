@@ -107,17 +107,15 @@
                -->
 
               {% if post.supervisor %}
-                <p>
-                  <strong>Advisor:</strong>
-                  {% if post.supervisor_link %}
-                    <a href="{{ post.supervisor_link }}" target="_blank">{{ post.supervisor }}</a>
-                  {% else %}
-                    {{ post.supervisor }}
-                  {% endif %}
-                </p>
+                
+                {% if post.supervisor_link %}
+                  <a href="{{ post.supervisor_link }}" target="_blank">{{ post.supervisor }}</a>
+                {% else %}
+                  {{ post.supervisor }}
+                {% endif %}
               {% endif %}
-
-              <p><strong>Authors:</strong> {{ post.authors }}</p>
+              
+              {{post.authors}}
 
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
