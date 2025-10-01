@@ -7,6 +7,6 @@ categories: talk
 author: "Maung Thant"
 subtitle: ""
 # authors: "Tao Lin, Sebastian U Stich, Luis Barba, <strong>Daniil Dmitriev</strong>, Martin Jaggi"
-venue: ",KU Leuven"
+venue: "KU Leuven"
 slides: https://docs.google.com/presentation/d/1JVCjFsdlSOxmJ5PUrhfTuY6nBzrD58NC/edit?usp=drive_link&ouid=116863884914743887765&rtpof=true&sd=true
 ---
