@@ -107,12 +107,7 @@
                -->
 
               {% if post.supervisor %}
-                
-                {% if post.supervisor_link %}
-                  <a href="{{ post.supervisor_link }}" target="_blank"><br>Advisor:{{ post.supervisor }}</a>
-                {% else %}
-                  <br>Advisor:{{post.supervisor }}
-                {% endif %}
+                <a href="{{ post.supervisor_link }}" target="_blank"><br>Advisor:{{ post.supervisor }}</a>
               {% endif %}
               
               {% if post.authors %}
