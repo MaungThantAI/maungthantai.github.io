@@ -10,6 +10,7 @@ venue: "Master Thesis"
 thesis: https://drive.google.com/file/d/1CSiHHgeFWjYoDDV3nZ_lusRjk5s5laA7/view?usp=drive_link
 supervisor: " Prof. Jef Peeters"
 supervisor_link: "https://scholar.google.com/citations?user=A9HIWYgAAAAJ&hl=en&oi=ao"
+slides: https://docs.google.com/presentation/d/1TfiYIlC1SWJRDoJ-kb454he4Yf8ZF3Lv/edit?usp=sharing&ouid=116863884914743887765&rtpof=true&sd=true
 ---
 
 We analyze properties of the CDF of binomial random variable near its median.
