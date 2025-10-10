@@ -133,9 +133,6 @@
               {% if post.poster %}
               <a href="{{post.poster}}">poster</a> /
               {% endif %}
-              {% if post.slides %}
-              <a href="{{post.slides}}">slides</a> /
-              {% endif %}
               {% if post.website %}
               <a href="{{post.website}}">website</a> /
               {% endif %}
@@ -144,6 +141,9 @@
               {% endif %}
               {% if post.thesis %}
               <a href="{{post.thesis}}">thesis</a> /
+              {% endif %}
+              {% if post.slides %}
+              <a href="{{post.slides}}">slides</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
