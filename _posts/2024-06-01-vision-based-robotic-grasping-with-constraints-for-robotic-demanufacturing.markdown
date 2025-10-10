@@ -12,7 +12,7 @@ arxiv: https://drive.google.com/file/d/1zClbDdWf5ZSFCXthcQzwiQ8D3jp14PHe/view?us
 poster: https://online.electronicsgoesgreen.org/wp-content/uploads/2024/06/PosterEGG2024-_-256-_-MohammadMahin-_-Vision.pdf
 ---
 
-We prove that for a certain class of algorithms, the number of mistakes for online learning under differential privacy constraint must grow logarithmically.
+We address the challenge of efficient electronic waste demanufacturing by developing a constraint-aware, analytical method for robotic grasping of small domestic appliances. Unlike existing approaches, our method accounts for subsequent disassembly steps, ensuring screws and batteries remain accessible after grasping. The grasping pipeline combines segmentation, optimal grasp pose estimation, and execution using a parallel-jaw gripper. We validate the approach in PyBullet simulations with eight objects and lab-scale experiments using a six-axis robot with ten appliances, each tested over ten trials. Our findings highlight the potential of constraint-aware analytical grasping to enable reliable, generalizable, and automated demanufacturing of electronic waste.
 
 [Poster PDF](https://online.electronicsgoesgreen.org/wp-content/uploads/2024/06/PosterEGG2024-_-256-_-MohammadMahin-_-Vision.pdf){:target="_blank"}
 
