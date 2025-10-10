@@ -2,7 +2,7 @@
 layout: post
 title:  "Polyphonic Music Transcription Through Spatial Audio Recording"
 date:   2023-02-01 15:43:00 +00:00
-image: images/lowerbound-dp.png
+image: /images/lowerbound-dp.png
 categories: research
 author: "Maung Thant"
 subtitle: ""
