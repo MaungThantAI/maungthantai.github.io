@@ -2,7 +2,7 @@
 layout: post
 title:  "Polyphonic Music Transcription Through Spatial Audio Recording"
 date:   2023-02-01 15:43:00 +00:00
-image: E:\Academic Year 2025-2026\website\daniildmitriev.github.io\images\Polyphonic_Music_Transcription_Through_Spatial_Audio_Recording.png
+image: images/Polyphonic_Music_Transcription_Through_Spatial_Audio_Recording.png
 categories: research
 author: "Maung Thant"
 subtitle: ""
