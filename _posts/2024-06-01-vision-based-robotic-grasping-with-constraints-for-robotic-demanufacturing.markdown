@@ -2,7 +2,7 @@
 layout: post
 title:  "Vision-Based Robotic Grasping with Constraints for Robotic Demanufacturing"
 date:   2024-06-01 15:43:00 +00:00
-image: /images/lowerbound-dp.png
+image: /images/Vision_based_robotic_grasping_with_constraints_for_demanufacturing.png
 categories: research
 author: "Maung Thant"
 subtitle: ""

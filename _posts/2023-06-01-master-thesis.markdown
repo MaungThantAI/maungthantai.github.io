@@ -2,7 +2,7 @@
 layout: post
 title:  "Vision-based Robotic Grasp Pose Estimation with Screw Constraints for Electronic Devices from Conveyor Belt"
 date:   2023-06-01 15:43:00 +00:00
-image: /images/ramanujan.png
+image: /images/master_thesis.png
 categories: research
 author: "Maung Thant"
 subtitle: ""

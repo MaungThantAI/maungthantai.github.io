@@ -2,7 +2,7 @@
 layout: post
 title:  "Globally and Locally Aligned Self-supervised Representation Learning in Multi-modal Medical Decision Support Systems"
 date:   2025-06-01 15:43:00 +00:00
-image: /images/ramanujan.png
+image: /images/mai_thesis.png
 categories: research
 author: "Maung Thant"
 subtitle: ""
