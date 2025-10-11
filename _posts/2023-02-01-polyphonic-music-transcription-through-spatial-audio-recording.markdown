@@ -13,6 +13,6 @@ supervisor: " Prof. Toon van Waterschoot"
 supervisor_link: "https://tvanwate.github.io/"
 ---
 
-We prove that for a certain class of algorithms, the number of mistakes for online learning under differential privacy constraint must grow logarithmically.
+We present a novel method for polyphonic music transcription using spatial audio from a six-microphone array, designed for settings like group music therapy where isolating individual instruments is impractical. Our pipeline employs geometrically-informed beamforming to separate instruments, detects note onsets using the NINOS² algorithm, and estimates pitches with non-negative matrix factorization. We evaluate the proposed method on recordings of mock therapy sessions, and the results highlight the potential of spatial audio for automated transcription of multiple instruments in real-world scenarios.
 
 [arXiv link](https://drive.google.com/file/d/1WEwH4jFPeye1p_hEkwuN9Eu9sf9clN5d/view?usp=drive_link){:target="_blank"}
