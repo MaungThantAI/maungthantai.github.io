@@ -8,7 +8,7 @@ author: "Maung Thant"
 subtitle: ""
 venue: "Bachelor Thesis"
 video: https://drive.google.com/file/d/1b8bDMRRD1n8bXcnsteBxNFvsrd0Pb8gG/view?usp=drive_link
-supervisor: " Prof. Lucca Geurts"
+supervisor: "Lucca Geurts"
 supervisor_link: "https://iiw.kuleuven.be/onderzoek/emedia/people/geurtslucca"
 ---
 
